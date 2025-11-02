@@ -6,14 +6,14 @@ Using two relational datasets — **Complaints (Fact)** and **Company (Dimension
 
 ### ⚙️ Tools & Technologies
 - **Power BI** – Data modeling, DAX measures, and interactive visualizations  
-- **Power Query** – Data cleaning and preprocessing  
+- **Power Query** – Data cleaning and preprocessing
+- **Excel/CSV** - Data Source
 
 ### 🎯 Key Insights
 - Tracked **YoY Complaint Trends** to identify rising or falling complaint volumes over time.  
 - Discovered **top complaint-prone products, states, and companies** using dynamic filters and KPIs.  
 - Measured **Resolution Speed by Channel & Outcome**, showing Web-based submissions resolve 1.3× faster than Fax or Postal channels.  
 - Evaluated **Reputation Score (50–100)** impact on response efficiency and complaint outcomes.  
-
 
 ### 📈 Dashboard Features
 - Multi-page report with segmented analysis:  
@@ -31,5 +31,3 @@ Using two relational datasets — **Complaints (Fact)** and **Company (Dimension
 ### 🧠 Business Impact
 The dashboard empowers organizations to **monitor complaint trends**, **improve service efficiency**, and **enhance customer satisfaction** through data-driven decisions.
 
-
-> “Turning consumer pain points into actionable business insights through data.”
